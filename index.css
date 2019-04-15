@@ -1,0 +1,48 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+html,body
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
+header
+{
+	margin: 0;
+	padding: 10px 0px;
+	float: left;
+	width: 100%;
+	height: auto;
+	background: red;
+	border-radius: 10px 0 10px 0;
+}
+
+header h2,h3
+{
+	color: #FFF;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+}
+
+
+textarea
+{
+	margin: 10px 28px;
+	width: 95%;
+	height: 300px;
+	border: 5px solid #CCC;
+}
+
+input
+{
+	padding: 5px 10px;
+}
